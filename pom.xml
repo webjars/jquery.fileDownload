@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery.fileDownload</artifactId>
-    <version>1.4.6-SNAPSHOT</version>
+    <version>1.4.6</version>
     <name>jquery.fileDownload</name>
     <description>WebJar for jquery.fileDownload</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/jquery.fileDownload</url>
         <connection>scm:git:https://github.com/webjars/jquery.fileDownload.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery.fileDownload.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery.fileDownload-1.4.6</tag>
     </scm>
     
     <dependencies>
